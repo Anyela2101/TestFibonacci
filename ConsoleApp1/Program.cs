@@ -9,6 +9,10 @@ namespace Fibonacci
            
         }
 
+        public static int serieFibonacci(int numero)
+        {
+            return 0;
+        }
       
     }
 }
