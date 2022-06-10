@@ -1,0 +1,6 @@
+C:\Users\DELL\Desktop\Universidad Popular del cesar Anyela\TDD\TestFibonacci\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\DELL\Desktop\Universidad Popular del cesar Anyela\TDD\TestFibonacci\obj\Debug\net5.0\TestFibonacci.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Universidad Popular del cesar Anyela\TDD\TestFibonacci\obj\Debug\net5.0\TestFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Universidad Popular del cesar Anyela\TDD\TestFibonacci\obj\Debug\net5.0\TestFibonacci.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Universidad Popular del cesar Anyela\TDD\TestFibonacci\obj\Debug\net5.0\TestFibonacci.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Universidad Popular del cesar Anyela\TDD\TestFibonacci\obj\Debug\net5.0\TestFibonacci.csproj.CoreCompileInputs.cache

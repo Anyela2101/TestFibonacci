@@ -6,8 +6,10 @@ namespace TestFibonacci
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestFibonacci1()
         {
+            int numero = Fibonacci.Program.serieFibonacci(0);
+            Assert.AreEqual(1, numero);
         }
     }
 }
